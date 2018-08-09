@@ -1,21 +1,19 @@
-## John Wayd // Running activities organizer // The Never Ending Run
-John Wayd is a geeky project for runner and running lovers. This chatbot will organize activites around your place and find people willing to run with you.
+## Transition streets Chatbot // Let's change the world; Let's start small and right now
+Transition Streets Bot is a geeky project for runner and running lovers. This chatbot will organize activites around your place and find people willing to do a vegetable garden/ a compost/ anything usefull with you.
 ## The chat:
-#### Facebook: http://m.me/JohnWaydBot
-#### Telegram: http://t.me/JohnWaydBot
-#### Kik:https://kik.me/John.Wayd
+#### Facebook: http://m.me/TransitionStreetsBot
+#### Telegram: http://t.me/TransitionStreetsBot
+#### Kik:TBD soon
 #### Line:TBD soon
 #### Skype:TBD soon
 #### Wechat:TBD soon
 #### SMS/Twilio: TBD soon
 ## Video
-https://youtu.be/gdPsP3cdp0Y
-
-https://youtu.be/OuaQrcMEM50
+TBD
 
 ## Contribute
 
-THIS IS AN OPENSOURCE CHATBOT. Contributions are welcome, just open a Pull Request ! Feel free to modify the code. You can modify the script of this chatbot freely
+THIS IS A COLLABORATIVE CHATBOT. Contributions are welcome, just open a Pull Request ! Feel free to modify the code. You can modify the script of this chatbot freely
 
 Every sunday, the code is pushed in production automatically.
 
